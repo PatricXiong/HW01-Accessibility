@@ -23,3 +23,4 @@ Updated SEO site into semantic tags for easier access for search engines.
  Email: pathlub@gmail.com
  Phone number: 777-7777
  
+*couldn't figure out how to take out the index.html*
